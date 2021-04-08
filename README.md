@@ -14,7 +14,7 @@
 
 
 ---
-# Website - <em>[SyntaxMeets](https://syntaxmeets.vercel.app/)</em>
+# Website - <em>[SyntaxMeets](http://syntaxmeets.netlify.app/)</em>
 
 # Features
 - [Create a Room](#Create-a-room-)
@@ -25,7 +25,7 @@
 - [SyntaxChat](#Code-&-Compile-)
 
 
-### :rocket:Glimpse :dizzy::dizzy:<br><br>![createaroom](https://i.imgur.com/LIxiaOK.png)
+### :rocket:Glimpse :dizzy::dizzy:<br><br>![createaroom](https://i.imgur.com/eSq6CdD.jpg)
 
 
 
